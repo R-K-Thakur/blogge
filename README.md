@@ -1,5 +1,14 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+# ✨Blogge by Rohan✨
+
+## Technologies used 💻:
+
+1. Next.js
+2. Javascript
+3. GraphQL
+4. Vercel
+
 ## Getting Started
 
 First, run the development server:
